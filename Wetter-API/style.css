@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(218, 210, 142);
+}
+
+.city {
+    margin: 30px;
+    padding: 20px;
+}
+
+input[type="text"] {
+    font-size: 25px;
+}
+
+
+#cityInput {
+    border: solid 5px black;
+    height: 50px;
+    line-height: 20px;
+    vertical-align: middle;
+    margin-left: 20px;
+
+}
+
+#button1 {
+    margin-left: 20px;
+}
+
+#wetter {
+    text-align: center;
+    margin: 50px;
+}
